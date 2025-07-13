@@ -1,6 +1,6 @@
 # DBMS Project
 
-A simple web-based system for managing student records, designed for educational or project demonstration purposes. Built using HTML, CSS, and JavaScript.
+A simple web-based system for managing records, designed for educational or project demonstration purposes. Built using HTML, CSS, and JavaScript.
 
 ## 📁 Features
 
