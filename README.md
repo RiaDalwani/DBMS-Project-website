@@ -1,2 +1,40 @@
-# DBMS-Project-website
-Title: DBMS Project – Student Record Management Description: A web-based application to manage student records using HTML, CSS, and JavaScript. Users can view and interact with student data via a simple and intuitive interface.
+# DBMS Project
+
+A simple web-based system for managing student records, designed for educational or project demonstration purposes. Built using HTML, CSS, and JavaScript.
+
+## 📁 Features
+
+- Interactive user interface with JavaScript
+- Lightweight and easy to deploy
+
+## 🛠️ Technologies Used
+
+- **HTML** – Structure and layout
+- **CSS** – Styling and responsiveness
+- **JavaScript** – Interactivity and logic
+
+## 🚀 Getting Started
+
+1. Clone or download the project:
+   ```bash
+   git clone https://github.com/yourusername/student-record-management.git
+   ```
+2. Open `index.html` in any modern web browser.
+
+## 📂 Project Structure
+
+```
+DBMS Project/
+│
+├── index.html       # Main interface
+├── styles.css       # Stylesheet
+└── script.js        # JavaScript logic
+```
+
+## ✍️ Author
+
+- Ria Dalwani
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
